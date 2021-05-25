@@ -1,0 +1,29 @@
+{
+  "sites": [
+    {
+      "id": "comfi.es",
+      "url": "https://comfi.es/",
+      "css": "https://comfi.es/src/webcircle.css"
+    },
+    {
+      "id": "dystopia.club",
+      "url": "https://dystopia.club/",
+      "css": "https://dystopia.club/circle.css"
+    },
+    {
+      "id": "zvava.org",
+      "url": "https://zvava.org/",
+      "css": "https://zvava.org/src/webcircle.css"
+    },
+    {
+      "id": "lllil.li",
+      "url": "https://lllil.li/",
+      "css": "https://lllil.li/static/css/webcircle.css"
+    },
+    {
+      "id": "lost-in-walmart.blog",
+      "url": "https://lost-in-walmart.blog/",
+      "css": "https://lost-in-walmart.blog/circular.css"
+    }
+  ]
+}
